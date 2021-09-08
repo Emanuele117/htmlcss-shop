@@ -302,3 +302,27 @@ body {
 .sbarrato {
     text-decoration: line-through;
 }
+
+.square1:hover .cuore1 {
+    color: red;
+}
+
+.square2:hover .cuore2 {
+    color: red;
+}
+
+.square3:hover .cuore3 {
+    color: red;
+}
+
+.square4:hover .cuore4 {
+    color: red;
+}
+
+.square5:hover .cuore5 {
+    color: red;
+}
+
+.square6:hover .cuore6 {
+    color: red;
+}
