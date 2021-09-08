@@ -15,6 +15,7 @@
 body {
     margin-left: 20%;
     margin-right: 20%;
+    font-family: sans-serif;
 }
 
 .container {
@@ -206,4 +207,85 @@ body {
     position: absolute;
     right: 12px;
     bottom: 8px;
+}
+
+.discount1 {
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.sostenibilita1 {
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    position: absolute;
+    bottom: 20px;
+    left: 45px;
+    color: white;
+    text-align: center;
+}
+
+.discount2 {
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.discount3 {
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.discount4 {
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.sostenibilita2 {
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    position: absolute;
+    bottom: 20px;
+    left: 45px;
+    color: white;
+    text-align: center;
+}
+
+.sostenibilita3 {
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    color: white;
+    text-align: center;
 }
